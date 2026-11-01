@@ -1,0 +1,17 @@
+venv 
+
+all projects same packeges use 
+for example 
+A > Flask 2 
+B flask 3
+
+with venv 
+python-3 -m venv venv
+source venv/bin/activate
+
+pip install flask sqlalchemy pymsql openai PyPDF2 python-docx
+
+
+1- step's - setup
+2- database connection 
+3- 
